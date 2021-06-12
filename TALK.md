@@ -21,21 +21,22 @@
 
 # 2. The eigr.io project
 
-> marcel: Idea is to give context. How it started; I think Jonas Talk at Kubecon was foundational. Then CLoudstate came along with an idea how to implement. There, the CS-Protocol is the most important asset I think. As we state, we build eigr/massa as a Cloudstate compatible proxy. Said, its compatible with Cloudstate, that does not mean it can't do its own stuff, with an enganced protocol. I seriously doubt LB will bring Cloudsdtate on par with Akkaserverless; too much has changed. But, we mihght be surprised.
+> marcel: The Idea is to give context. How it started; I think [Jonas' Talk](https://www.youtube.com/watch?v=J3PyYmdTsnQ) at Kubecon was foundational. Then Cloudstate came along with an idea how to implement. There, the CS-Protocol is the most important asset I think. As we state, we build eigr/massa as a Cloudstate compatible proxy. Said, its compatible with Cloudstate, that does not mean it can't do its own stuff, with an enganced protocol. I seriously doubt LB will bring Cloudsdtate on par with Akkaserverless; too much has changed. But, we mihght be surprised.
 
-> marcel: there is the narrative why we would build a serverless stack, where, serverless today seems to be a product. As LB found out, they can't make a business out of having Cloudstate as an open source project, but have to provide the Serverless experience as a product. For me, having the serverless experience to build "general purpose applications" should be possible, without being locked to a vendor. If my IT can manage kubernetes workload, eigr-serverless, or however we call that, would be on a private or public cloud, I'd control the thing in its entirety. Depending who you ask for, but what I see in my work experience, no serious traditional project would use a serverless product like the one from Lightbend to build their traditional general purpose application like a pension services application or any I can think of. So in this regards our project is an implementation of the ideas Cloudstate established, than can be used without sticking to a vendor.
+
+> marcel: Some thoughts from my usualy context of work. Mostly in fintech here in Switzerland. This for sure does not apply to everything: There is the narrative why we would build a serverless stack, where, serverless today seems to be a product. As LB found out, they can't make a business out of having Cloudstate as an open source project, but have to provide the Serverless experience as a product. For me, having the serverless experience to build "general purpose applications" should be possible, without being locked to a vendor. If my IT can manage kubernetes workload, eigr/serverless, or however we call that, would be on a private or public cloud, I'd control the thing in its entirety. Depending who you ask for, but what I see in my work experience, no serious traditional project would use a serverless product like the one from Lightbend to build their traditional general purpose application in its entirety or any I can think of. For most, it's too risky still at the moment leaning on such a model to build applications. So in this regards our project is an implementation of the ideas Cloudstate established, not being locked in to a vendors product that you can't escape at all without a software escrow option. New businesses building in the open or that are used to use services in the cloud, are comfortable to use serverless services in the cloud.
 
 # The Protocol
 
 - based on Cloudstate
 
-> marcel: I'd explain the high level stuff. Message-In, Message-Out, , the proxy, gRPC, Discovery, Entity-Models, language supports. I'm hesistated to use the term SDK, as AkkaServerless does, we're not a product. But we'll see, dapr.io also has SDKs I think.
+> marcel: I'd explain the high level stuff. Message-In/Message-Out, the proxy, gRPC, Discovery, Entity-Models, language supports. I'm hesistated to use the term SDK, as AkkaServerless does, we're not a product. But we'll see, dapr.io also has SDKs I think.
 
 # On the BEAM
 
 - why
 
-> marcel: here comes why the BEAM and OTP is a perfect fit for our project. I mean, the OTP/BEAM running the eigr/massa proxy is like a control-plane of a large telephone switch, where user-functions and the messages that go in and out are the data-plane the proxy manages. Sure, the BEAM might be "slow"? for stuff like protocol some will say, we'll see if that is the case.
+> marcel: here comes why the BEAM and OTP is a perfect fit for our project as we think. One can say, the OTP/BEAM running the eigr/massa proxy is like a control-plane of a large telephone switch, where user-functions and the messages that go in and out are the data-plane the proxy manages. Sure, the BEAM might be "slow"? for stuff like protocol some will say, we'll see if that is the case.
 
 # Our Challenges
 

@@ -1,4 +1,12 @@
+# Thoughts
+
+# Links
+
+## GOTO 2018 • Confusion in the Land of the Serverless • Sam Newman
+
 - https://youtu.be/Y6B3Eqlj9Fw
+- most faas services by cloud providers are not uniform.
+- lock-on => migration cost.
 - https://twitter.com/ben11kehoe/status/1403107201162432515?s=21
 
 It seems stateful serverless could be not well understood, even with experts. We might try to extract usefull information and learn too.

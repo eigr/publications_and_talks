@@ -9,6 +9,9 @@
 - lock-on => migration cost.
 - https://twitter.com/ben11kehoe/status/1403107201162432515?s=21
 
+## interactions
+- https://twitter.com/ProfCarlHewitt/status/1405201329945907206?s=20
+
 It seems stateful serverless could be not well understood, even with experts. We might try to extract usefull information and learn too.
 
 # akkasls press — for comparison

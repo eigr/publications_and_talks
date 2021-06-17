@@ -21,3 +21,6 @@ It seems stateful serverless could be not well understood, even with experts. We
 - https://siliconangle.com/2021/06/10/lightbends-akka-serverless-enables-stateful-app-development-without-database/
 
 - https://vmblog.com/archive/2021/06/10/vmblog-expert-interview-with-jonas-bon-r-of-lightbend-talking-akka-serverless-and-more.aspx#.YMRLzC1Hm-p
+
+## videos
+- https://youtu.be/AOY8yRC6dVY, old but clean tech intro into CS.

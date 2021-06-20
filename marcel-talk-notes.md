@@ -11,6 +11,7 @@
 
 ## interactions
 - https://twitter.com/ProfCarlHewitt/status/1405201329945907206?s=20
+- https://news.ycombinator.com/item?id=27536812
 
 It seems stateful serverless could be not well understood, even with experts. We might try to extract usefull information and learn too.
 

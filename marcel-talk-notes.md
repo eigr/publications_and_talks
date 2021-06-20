@@ -24,3 +24,4 @@ It seems stateful serverless could be not well understood, even with experts. We
 
 ## videos
 - https://youtu.be/AOY8yRC6dVY, old but clean tech intro into CS.
+- https://youtu.be/2QNA6uaBHY4, BEAM & serverless

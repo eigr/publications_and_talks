@@ -67,13 +67,19 @@ runtime we think the BEAM and OTP is a perfect match.
 #### Speaker biography
 
 > (Short biography. Please write in the third person.)
-Marcel Lanz is a … he likes to … occasionally he does … often he ….
+
+Marcel Lanz is a System and Software Architect working at proCentric AG. At heart, he is an engineer and in general
+curious how things work. He has been working professionally for over 20 years in different fields of computer science
+like Embedded OS Design and Realtime Systems as well as in Healthcare, Insurance and Fintech industries. When he is not
+exploring all things Go, Erlang and Serverless, Marcel enjoys time with his daughters and riding motorcycles.
+
+Marcel Lanz is also a Cloudstate Contributor Emeritus and an open source enthusiast.
 
 #### Speaker tagline and/or key achievements
 
 > (A short and snappy tagline as well as your top two achievements you are most proud of helps us to impress the community)
 
-huh?
+Engineer at heart and founding member of the eigr.io project.
 
 #### Have you spoken in public before?
 
@@ -93,7 +99,7 @@ We present how the BEAM and OTP is an ideal fit to build a serverless runtime on
 - Introduce the concept of polyglot serverless
 - Handling state in Serverless FaaS
 - The Cloudstate Protocol based on gRPC
-- eigr/massa – a Cloudstate proxy implementation
+- eigr/massa – a Cloudstate proxy implementation in Elixir on the BEAM
 - Demo FaaS, Action Protocol
 
 Beside presenting the eigr project, we aim to invite others to explore the project and help us to build the
@@ -103,9 +109,7 @@ eigr/serverless runtime.
 
 > (Who would this talk appeal to?)
 
-- Application Developers
-- Distributed System Engineers
-- Cloud and Serverless enthusiasts
+Beginner, Intermediate; individuals interested in serverless, distributed state management and gRPC protocols.
 
 #### Your talk is mostly suitable to?
 

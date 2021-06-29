@@ -46,8 +46,8 @@ polyglot programming model to build general purpose applications.
 
 Building general purpose applications using multiple languages and also having a story how to handle state was our main
 motivation to explore the space of a serverless runtime to be built as an open source project. An abandoned open source
-project based on an Actor based framework (Akka Cluster) with a promising technical concept, let us to (re) build that
-runtime we think the BEAM and OTP is a perfect match.
+project based on an Actor based framework (Akka Cluster) with a promising technical concept, let us to build that
+runtime. And we think the BEAM and OTP is a perfect match.
 
 ### Personal Info
 

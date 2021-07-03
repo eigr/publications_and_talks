@@ -30,7 +30,8 @@ We are looking for great talk ideas around the 7 themes of:
 > (It should be short, but descriptive)
 
 - eigr.io – Serverless on the BEAM
-- eigr.io – a Serverless runtime on the BEAM
+- eigr.io – a Serverless Runtime on the BEAM
+- eigr.io — a Serverless Runtime on the BEAM
 
 ### Abstract
 

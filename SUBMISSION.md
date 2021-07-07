@@ -29,9 +29,7 @@ We are looking for great talk ideas around the 7 themes of:
 
 > (It should be short, but descriptive)
 
-- eigr.io – Serverless on the BEAM
-- eigr.io – a Serverless Runtime on the BEAM
-- eigr.io — a Serverless Runtime on the BEAM
+- eigr.io – Towards a Serveless Runtime on the BEAM
 
 ### Abstract
 
@@ -89,7 +87,7 @@ Engineer at heart and founding member of the eigr.io project.
 #### Co-presenter
 
 > (Are you presenting with a friend? Please provide their name and email address)
-Adriano Santos, adriano@example.com
+Adriano Santos, sleipnir@bsd.com.br
 
 #### Talk objective(s)
 

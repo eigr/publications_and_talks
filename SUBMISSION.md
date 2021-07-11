@@ -47,8 +47,8 @@ Building general purpose applications using multiple languages and having a stor
 motivation to explore the space of a serverless runtime to be built. An open source project (currently hibernating)
 based on Akka with a promising technical concept let us to build that runtime. We think the BEAM, OTP and Elixir/Erlang
 are a perfect match for that to build on it. With this talk, we combine herein the world of the BEAM with
-cloud-technology like gRPC, Kubernetes and as well a polyglot programming model with Go, JavaScript, JVM-languages,
-Python and many more.
+cloud-technology like a gRPC-based protocol, Kubernetes and as well a polyglot programming model with Go, JavaScript,
+JVM-languages, Python and many more supported.
 
 ### Personal Info
 

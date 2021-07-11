@@ -46,7 +46,7 @@ on-premises, running on the BEAM with a polyglot programming model to build gene
 Building general purpose applications using multiple languages and having a story how to handle state was our main
 motivation to explore the space of a serverless runtime to be built. An open source project (currently hibernating)
 based on Akka with a promising technical concept let us to build that runtime. We think the BEAM, OTP and Elixir/Erlang
-are a perfect match for that to build on it. With this talk, web combine herein the world of the BEAM with
+are a perfect match for that to build on it. With this talk, we combine herein the world of the BEAM with
 cloud-technology like gRPC, Kubernetes and as well a polyglot programming model with Go, JavaScript, JVM-languages,
 Python and many more.
 

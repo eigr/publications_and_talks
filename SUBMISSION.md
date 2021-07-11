@@ -98,9 +98,9 @@ Adriano Santos, sleipnir@bsd.com.br
 > (What does the talk aim to achieve?)
 
 In this talk, we'll present how the BEAM and OTP is an ideal fit to build a serverless runtime on top of. After a short
-introduction about serverless and a polyglot programming model we'll present and demo the open-source project at eigr.io
-where we implemented the core of our runtime in Elixir/OTP. Beside presenting the eigr.io project, we aim to invite and
-inspire others to explore the project and help to build the eigr/serverless runtime.
+introduction about serverless and a polyglot programming model, we'll present the open-source project at eigr.io where
+we implemented the core of our runtime in Elixir/OTP. Beside presenting the eigr.io project, we aim to inspire others to
+explore the world of serverless and help to build the serverless runtime at eigr.io
 
 #### Target audience
 

@@ -1,5 +1,7 @@
 # A Serverless Runtime on the BEAM
 
+## Introduction
+
 Serverless runtimes are often hidden in a cloud providers offering and exposed solely by their programming API and
 deployment procedures. In this blog post, we'll explore an open-source Serverless runtime built for the cloud and
 on-premises, running on the BEAM with a polyglot programming model to build general purpose applications.

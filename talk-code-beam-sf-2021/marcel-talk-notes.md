@@ -4,6 +4,16 @@ eigr.io – Towards a Serverless Runtime on the BEAM
 
 - what needs it? needs to "talk" to user functions, so then we use the CS protocol.
 
+
+https://tweetpik.com/#app
+
+https://twitter.com/kelseyhightower/status/1428411566307766272?s=20
+https://twitter.com/jboner/status/1428614344510775299?s=20
+https://twitter.com/marcellanz/status/1428633659800788994?s=20
+
+# Open source
+- https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/open-source
+
 # Links
 
 ## GOTO 2018 • Confusion in the Land of the Serverless • Sam Newman

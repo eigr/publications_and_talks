@@ -3,6 +3,7 @@
 eigr.io – Towards a Serverless Runtime on the BEAM
 
 - what needs it? needs to "talk" to user functions, so then we use the CS protocol.
+- this project could be of special interest for developers and users of other languages too. Every language to be supported needs a user support library/API that has to be developed.
 
 
 https://tweetpik.com/#app
